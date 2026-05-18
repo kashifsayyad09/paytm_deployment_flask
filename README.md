@@ -66,7 +66,20 @@ Test API:
 
 curl http://10.0.4.60:5000/api
 
+# Create Target Group http:5000 /api
+
+# Create Application Load Balancer internal
+
+
+<img width="1253" height="681" alt="image" src="https://github.com/user-attachments/assets/cb4b339f-c808-49b5-b827-ecf9a7b7d98a" />
+
+<img width="1574" height="583" alt="image" src="https://github.com/user-attachments/assets/33a7641b-5ec0-4a54-9045-f2ae50bb2ae8" />
 
 # Login to Frontend
+
+
+
+
+
 
 
